@@ -1,2 +1,2 @@
 # language-translation
-A Kharada-English machine translation using nlp
+A Kharada-English machine translation using natural language processing
